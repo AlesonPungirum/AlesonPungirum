@@ -5,6 +5,12 @@
 
 ---
 
+## 📝 Sobre Mim
+
+Sou um desenvolvedor apaixonado por resolver problemas através da programação. Gosto de explorar novas tecnologias e criar soluções inovadoras, principalmente no campo de automação e desenvolvimento web. Minha missão é transformar ideias complexas em softwares simples e funcionais.
+
+---
+
 ## 🚀 Minhas Habilidades
 
 ![Linguagens mais usadas](https://img.shields.io/github/languages/top/AlesonPungirum/AlesonPungirum?style=for-the-badge)
@@ -26,6 +32,15 @@
 
 ---
 
+## 🌱 O que estou aprendendo atualmente
+
+Estou sempre buscando me atualizar. Atualmente, estou focado em:
+- Aprendizado de IA/ML com Python
+- Melhorar minhas habilidades em arquitetura de microsserviços com Docker e Kubernetes
+- Contribuir mais com projetos open-source
+
+---
+
 ## 🛠️ Projetos em Destaque
 
 | Nome do Projeto  | Descrição  | Tecnologias Usadas  |
@@ -33,6 +48,14 @@
 | [Projeto 1](#)  | Projeto de automação financeira | MQL5 |
 | [Projeto 2](#)  | Aplicação web com React e Node.js | React, Node.js |
 | [Projeto 3](#)  | API RESTful com Node.js | Node.js, Express |
+
+---
+
+## ✨ Depoimentos
+
+_"Trabalhar com Aleson foi uma experiência incrível. Ele é extremamente profissional e focado em resultados."_ - Cliente X
+
+_"Aleson tem uma habilidade única de transformar desafios complexos em soluções eficientes."_ - Colaborador Y
 
 ---
 
