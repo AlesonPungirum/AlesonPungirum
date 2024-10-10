@@ -25,13 +25,6 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlesonPungirum&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlesonPungirum&layout=compact&theme=radical)
-
----
-
 ## 🌱 O que estou aprendendo atualmente
 
 Estou sempre buscando me atualizar. Atualmente, estou focado em:
