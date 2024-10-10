@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou Aleson Pungirum
 
-🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL5, React e Node.js, focado em criar soluções eficientes e inteligentes.
+🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL4, MQL5, React e Node.js, focado em criar soluções eficientes e inteligentes.
 
 ---
 
@@ -14,11 +14,12 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 ## 🚀 Minhas Habilidades
 
 ![Linguagens mais usadas](https://img.shields.io/github/languages/top/AlesonPungirum/AlesonPungirum?style=for-the-badge)
+![MQL4](https://img.shields.io/badge/MQL4-Expert-blue)
 ![MQL5](https://img.shields.io/badge/MQL5-Expert-blue)
 ![React](https://img.shields.io/badge/React-JS-green)
 ![Node.js](https://img.shields.io/badge/Node.js-JS-orange)
 
-- **Linguagens**: JavaScript, Python, MQL5
+- **Linguagens**: JavaScript, Python, MQL4, MQL5
 - **Frameworks**: React, Node.js
 - **Ferramentas**: Git, Docker, SSH
 - **Metodologias**: Agile, Scrum
@@ -31,7 +32,7 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 
 | Nome do Projeto  | Descrição  | Tecnologias Usadas  |
 |:-----------------|:-----------|:--------------------|
-| [Projeto 1](#)  | Projeto de automação financeira | MQL5 |
+| [Projeto 1](#)  | Projeto de automação financeira com MQL4 e MQL5 | MQL4, MQL5 |
 | [Projeto 2](#)  | Aplicação web com React e Node.js | React, Node.js |
 | [Projeto 3](#)  | API RESTful com Node.js | Node.js, Express |
 
