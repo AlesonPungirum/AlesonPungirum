@@ -1,14 +1,30 @@
 
 # 👋 Olá! Eu sou Aleson Pungirum
 
-🌟 Desenvolvedor com experiência, especializado em automação e desenvolvimento de software.
+🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL5, React e Node.js, focado em criar soluções eficientes e inteligentes.
+
+---
 
 ## 🚀 Minhas Habilidades
+
+![Linguagens mais usadas](https://img.shields.io/github/languages/top/AlesonPungirum/AlesonPungirum?style=for-the-badge)
+![MQL5](https://img.shields.io/badge/MQL5-Expert-blue)
+![React](https://img.shields.io/badge/React-JS-green)
+![Node.js](https://img.shields.io/badge/Node.js-JS-orange)
 
 - **Linguagens**: JavaScript, Python, MQL5
 - **Frameworks**: React, Node.js
 - **Ferramentas**: Git, Docker, SSH
 - **Metodologias**: Agile, Scrum
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlesonPungirum&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlesonPungirum&layout=compact&theme=radical)
+
+---
 
 ## 🛠️ Projetos em Destaque
 
@@ -18,11 +34,19 @@
 | [Projeto 2](#)  | Aplicação web com React e Node.js | React, Node.js |
 | [Projeto 3](#)  | API RESTful com Node.js | Node.js, Express |
 
-## 📊 Estatísticas do GitHub
+---
 
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=AlesonPungirum&show_icons=true&theme=radical)
+## 🤝 Como Contribuir
 
-## 🔗 Como me encontrar
+1. Faça um fork do projeto.
+2. Crie uma nova branch com a sua feature: `git checkout -b minha-feature`.
+3. Faça commit das suas alterações: `git commit -m Minha nova feature`.
+4. Envie para o repositório remoto: `git push origin minha-feature`.
+5. Abra um Pull Request.
+
+---
+
+## 🔗 Onde me encontrar
 
 - [LinkedIn](https://linkedin.com/in/alesonpungirum)
 - [Twitter](https://twitter.com/alesonpungirum)
