@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou Aleson Pungirum
 
-🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL4, MQL5, React, Node.js, HTML e CSS, focado em criar soluções eficientes e inteligentes.
+🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL4, MQL5, React, Node.js, HTML, CSS, Postman e Figma, focado em criar soluções eficientes e inteligentes.
 
 ---
 
@@ -18,12 +18,14 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 ![MQL5](https://img.shields.io/badge/MQL5-Expert-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![Postman](https://img.shields.io/badge/Postman-Expert-yellow)
+![Figma](https://img.shields.io/badge/Figma-Designer-purple)
 ![React](https://img.shields.io/badge/React-JS-green)
 ![Node.js](https://img.shields.io/badge/Node.js-JS-orange)
 
 - **Linguagens**: JavaScript, Python, MQL4, MQL5, HTML, CSS
+- **Ferramentas**: Postman, Figma, Git, Docker, SSH
 - **Frameworks**: React, Node.js
-- **Ferramentas**: Git, Docker, SSH
 - **Metodologias**: Agile, Scrum
 
 ---
@@ -38,6 +40,7 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 | [Projeto 2](#)  | Aplicação web com React e Node.js | React, Node.js |
 | [Projeto 3](#)  | API RESTful com Node.js | Node.js, Express |
 | [Projeto 4](#)  | Site responsivo com HTML e CSS | HTML, CSS |
+| [Projeto 5](#)  | Testes de API com Postman | Postman |
 
 ---
 
