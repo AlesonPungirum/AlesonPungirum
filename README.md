@@ -31,6 +31,14 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 
 ---
 
+## 🌍 Idiomas
+
+- Português: Nativo
+- Inglês: Avançado (Leitura, Escrita e Conversação)
+- Espanhol: Intermediário
+
+---
+
 ## 💼 Meu Portfólio
 
 ### 🛠️ Projetos em Destaque
