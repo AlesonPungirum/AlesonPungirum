@@ -25,22 +25,34 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 
 ---
 
-## 🌱 O que estou aprendendo atualmente
+## 💼 Meu Portfólio
 
-Estou sempre buscando me atualizar. Atualmente, estou focado em:
-- Aprendizado de IA/ML com Python
-- Melhorar minhas habilidades em arquitetura de microsserviços com Docker e Kubernetes
-- Contribuir mais com projetos open-source
-
----
-
-## 🛠️ Projetos em Destaque
+### 🛠️ Projetos em Destaque
 
 | Nome do Projeto  | Descrição  | Tecnologias Usadas  |
 |:-----------------|:-----------|:--------------------|
 | [Projeto 1](#)  | Projeto de automação financeira | MQL5 |
 | [Projeto 2](#)  | Aplicação web com React e Node.js | React, Node.js |
 | [Projeto 3](#)  | API RESTful com Node.js | Node.js, Express |
+
+---
+
+## 🔥 Repositórios Fixados
+
+Aqui estão alguns dos meus repositórios mais importantes:
+
+- [Repositório 1](#): Descrição breve do projeto.
+- [Repositório 2](#): Descrição breve do projeto.
+- [Repositório 3](#): Descrição breve do projeto.
+
+---
+
+## 🌱 O que estou aprendendo atualmente
+
+Estou sempre buscando me atualizar. Atualmente, estou focado em:
+- Aprendizado de IA/ML com Python
+- Melhorar minhas habilidades em arquitetura de microsserviços com Docker e Kubernetes
+- Contribuir mais com projetos open-source
 
 ---
 
