@@ -13,7 +13,6 @@ Sou um desenvolvedor apaixonado por resolver problemas através da programação
 
 ## 🚀 Minhas Habilidades
 
-![Linguagens mais usadas](https://img.shields.io/github/languages/top/AlesonPungirum/AlesonPungirum?style=for-the-badge)
 ![MQL4](https://img.shields.io/badge/MQL4-Expert-blue)
 ![MQL5](https://img.shields.io/badge/MQL5-Expert-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
