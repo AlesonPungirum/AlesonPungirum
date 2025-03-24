@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou Aleson Pungirum
 
-🌟 Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL4, MQL5, React, Node.js, HTML, CSS, Postman, Figma e Electron, focado em criar soluções eficientes e inteligentes.
+Desenvolvedor full-stack especializado em automação financeira e tecnologias web. Apaixonado por MQL4, MQL5, React, Node.js, HTML, CSS, Postman, Figma e Electron, focado em criar soluções eficientes e inteligentes.
 
 ---
 
