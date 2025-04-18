@@ -38,71 +38,47 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ```mermaid
 mindmap
   root((Desenvolvedor Full Stack))
-    Desenvolvimento Frontend
-      JavaScript (Avançado)
-        React (Avançado)
-          Hooks
-          Context API
-          Redux
-        React Native (Intermediário)
-          Expo
-          Navigation
-      HTML5/CSS3 (Avançado)
-        Responsive Design
-        Flexbox/Grid
-        Animations
-      UI Frameworks
-        Material-UI (Avançado)
-        Tailwind CSS (Intermediário)
-      Desktop Apps
-        Electron (Intermediário)
-    Desenvolvimento Backend
-      Node.js (Avançado)
-        Express.js
-        NestJS
-        REST APIs
-        Middlewares
-      PHP (Intermediário)
-        Laravel
-        WordPress
-      Tempo Real
-        Socket.io (Avançado)
-        WebSockets
-      DevOps
-        Linux (Intermediário)
-        Nginx/Apache
-        CI/CD
-        PM2 (Avançado)
+    Frontend
+      React.js
+      HTML5/CSS3
+      Material-UI
+      JavaScript Avançado
+      Electron
+    Mobile
+      React Native
+      Expo
+      iOS/Android
+    Backend
+      Node.js
+      Express.js
+      APIs RESTful
+      Socket.io
+      PHP
     Banco de Dados
-      Relacional
-        MySQL (Avançado)
-        PostgreSQL (Intermediário)
-        SQLite (Intermediário)
-      NoSQL
-        MongoDB (Avançado)
-        Mongoose ODM
-    Linguagens de Programação
-      JavaScript/TypeScript (Avançado)
-      Python (Intermediário)
-        Data Analysis
-        Automation
-      PHP (Intermediário)
-      MQL4/5 (Avançado)
-        Indicadores Customizados
-        Trading Automatizado
-        Análise Técnica
-    Ferramentas & Metodologias
-      Controle de Versão
-        Git (Avançado)
-        GitHub/GitLab
-      API Testing
-        Postman (Avançado)
-        Insomnia (Avançado)
-      Design & Prototyping
-        Figma (Intermediário)
-      Metodologias Ágeis
-        Scrum
-        Kanban
+      MySQL
+      MongoDB
+      PostgreSQL
+      SQLite
+    Trading
+      MQL4/MQL5
+      Indicadores Técnicos 
+      Backtest
+      Análise de Mercado
+    DevOps
+      Linux
+      Git/GitHub
+      CI/CD
+      PM2
+      Nginx
+    Design
+      Figma
+      UI/UX Básico
+      Responsive Design
+    Ferramentas
+      VS Code
+      Postman/Insomnia
+      Discord.js
+      Slack API
 ```
 ## 🧭 Meus Valores Profissionais
 
