@@ -145,9 +145,6 @@ gantt
     section 🎓 Formação e Certificações
     🎓 Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
     📘 Agile Scrum Foundation - Certificação (em andamento) :active, 2025-04-01, 2025-06-30
-
-    %% Estilo personalizado
-    style Agile_Scrum_Foundation fill:#61dafb,stroke:#0d1117,stroke-width:2px
 ```
 
 
