@@ -36,69 +36,45 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-classDiagram
-    class Desenvolvedor {
-        <<Full Stack>>
-    }
-    
-    class Frontend {
-        React
-        React Native
-        HTML/CSS
-        Material-UI
-        Electron
-    }
-    
-    class Backend {
-        Node.js
-        PHP
-        Socket.io
-        Express
-        WebSockets
-    }
-    
-    class BancoDados {
-        MySQL
-        MongoDB
-        SQLite
-        PostgreSQL
-    }
-    
-    class Linguagens {
-        JavaScript
-        Python
-        PHP
-        MQL4/5
-    }
-    
-    class Trading {
-        Análise Técnica
-        Indicadores
-        Backtesting
-        Automação
-    }
-    
-    class DevOps {
-        Linux
-        Nginx
-        PM2
-        CI/CD
-    }
-    
-    class Ferramentas {
-        VS Code
-        Git/GitHub
-        Postman/Insomnia
-        Figma
-    }
-    
-    Desenvolvedor --> Frontend
-    Desenvolvedor --> Backend
-    Desenvolvedor --> BancoDados
-    Desenvolvedor --> Linguagens
-    Desenvolvedor --> Trading
-    Desenvolvedor --> DevOps
-    Desenvolvedor --> Ferramentas
+mindmap
+  root["Desenvolvedor<br/>Full Stack"]
+    Frontend
+      React
+      React Native
+      HTML/CSS
+      Material-UI
+      Electron
+    Backend
+      Node.js
+      PHP
+      Socket.io
+      Express
+      WebSockets
+    Banco de Dados
+      MySQL
+      MongoDB
+      SQLite
+      PostgreSQL
+    Linguagens
+      JavaScript
+      Python
+      PHP
+      MQL4/5
+    Trading
+      Análise Técnica
+      Indicadores
+      Backtesting
+      Automação
+    DevOps
+      Linux
+      Nginx
+      PM2
+      CI/CD
+    Ferramentas
+      VS Code
+      Git/GitHub
+      Postman/Insomnia
+      Figma
 ```
 ## 🧭 Meus Valores Profissionais
 
