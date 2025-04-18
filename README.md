@@ -36,45 +36,62 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-mindmap
-    id1((Desenvolvedor Full Stack))
-      id2[Frontend]
-        id3[React]
-        id4[React Native]
-        id5[HTML/CSS]
-        id6[Material-UI]
-        id7[Electron]
-      id8[Backend]
-        id9[Node.js]
-        id10[PHP]
-        id11[Socket.io]
-        id12[Express]
-        id13[WebSockets]
-      id14[Banco de Dados]
-        id15[MySQL]
-        id16[MongoDB]
-        id17[SQLite]
-        id18[PostgreSQL]
-      id19[Linguagens]
-        id20[JavaScript]
-        id21[Python]
-        id22[PHP]
-        id23[MQL4/5]
-      id24[Trading]
-        id25[Análise Técnica]
-        id26[Indicadores]
-        id27[Backtesting]
-        id28[Automação]
-      id29[DevOps]
-        id30[Linux]
-        id31[Nginx]
-        id32[PM2]
-        id33[CI/CD]
-      id34[Ferramentas]
-        id35[VS Code]
-        id36[Git/GitHub]
-        id37[Postman/Insomnia]
-        id38[Figma]
+graph TD
+    Dev((Desenvolvedor<br>Full Stack)) 
+    
+    Dev --> Frontend
+    Dev --> Backend
+    Dev --> BancoDados[Banco de Dados]
+    Dev --> Linguagens
+    Dev --> Trading
+    Dev --> DevOps
+    Dev --> Ferramentas
+    
+    Frontend --> React
+    Frontend --> ReactNative[React Native]
+    Frontend --> HTML[HTML/CSS]
+    Frontend --> MaterialUI[Material-UI]
+    Frontend --> Electron
+    
+    Backend --> NodeJS[Node.js]
+    Backend --> PHP
+    Backend --> SocketIO[Socket.io]
+    Backend --> Express
+    Backend --> WebSockets
+    
+    BancoDados --> MySQL
+    BancoDados --> MongoDB
+    BancoDados --> SQLite
+    BancoDados --> PostgreSQL
+    
+    Linguagens --> JavaScript
+    Linguagens --> Python
+    Linguagens --> PHP2[PHP]
+    Linguagens --> MQL[MQL4/5]
+    
+    Trading --> Analise[Análise Técnica]
+    Trading --> Indicadores
+    Trading --> Backtesting
+    Trading --> Automacao[Automação]
+    
+    DevOps --> Linux
+    DevOps --> Nginx
+    DevOps --> PM2
+    DevOps --> CICD[CI/CD]
+    
+    Ferramentas --> VSCode[VS Code]
+    Ferramentas --> Git[Git/GitHub]
+    Ferramentas --> Postman[Postman/Insomnia]
+    Ferramentas --> Figma
+    
+    style Dev fill:#6200EA,stroke:#6200EA,color:white,stroke-width:3px,radius:50px
+    style Frontend fill:#2196F3,stroke:#2196F3,color:white
+    style Backend fill:#4CAF50,stroke:#4CAF50,color:white
+    style BancoDados fill:#FFC107,stroke:#FFC107,color:black
+    style Linguagens fill:#F44336,stroke:#F44336,color:white
+    style Trading fill:#9C27B0,stroke:#9C27B0,color:white
+    style DevOps fill:#00BCD4,stroke:#00BCD4,color:white
+    style Ferramentas fill:#FF9800,stroke:#FF9800,color:white
 ```
 ## 🧭 Meus Valores Profissionais
 
