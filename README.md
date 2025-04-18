@@ -38,43 +38,43 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ```mermaid
 mindmap
   root((Desenvolvedor Full Stack))
+    Linguagens
+      JavaScript
+      Python
+      PHP
+      MQL4/5
+    Ferramentas
+      VS Code
+      Git/GitHub
+      Postman/Insomnia
+      Figma
     Frontend
       React
       React Native
       HTML/CSS
       Material-UI
       Electron
+    Trading
+      Análise Técnica
+      Indicadores
+      Backtesting
+      Automação
     Backend
       Node.js
       PHP
       Socket.io
       Express
       WebSockets
-    Banco de Dados
-      MySQL
-      MongoDB
-      SQLite
-      PostgreSQL
-    Linguagens
-      JavaScript
-      Python
-      PHP
-      MQL4/5
-    Trading
-      Análise Técnica
-      Indicadores
-      Backtesting
-      Automação
     DevOps
       Linux
       Nginx
       PM2
       CI/CD
-    Ferramentas
-      VS Code
-      Git/GitHub
-      Postman/Insomnia
-      Figma
+    Banco de Dados
+      MySQL
+      MongoDB
+      SQLite
+      PostgreSQL
 ```
 ## 🧭 Meus Valores Profissionais
 
