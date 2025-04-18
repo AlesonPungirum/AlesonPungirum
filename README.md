@@ -36,70 +36,64 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-classDiagram
-    class Desenvolvedor {
-        <<Full Stack>>
-    }
-    
-    class Frontend {
-        React
-        React Native
-        HTML/CSS
-        Material-UI
-        Electron
-    }
-    
-    class Backend {
-        Node.js
-        PHP
-        Socket.io
-        Express
-        WebSockets
-    }
-    
-    class BancoDados {
-        MySQL
-        MongoDB
-        SQLite
-        PostgreSQL
-    }
-    
-    class Linguagens {
-        JavaScript
-        Python
-        PHP
-        MQL4/5
-    }
-    
-    class Trading {
-        Análise Técnica
-        Indicadores
-        Backtesting
-        Automação
-    }
-    
-    class DevOps {
-        Linux
-        Nginx
-        PM2
-        CI/CD
-    }
-    
-    class Ferramentas {
-        VS Code
-        Git/GitHub
-        Postman/Insomnia
-        Figma
-    }
-    
-    Desenvolvedor --> Frontend
-    Desenvolvedor --> Backend
-    Desenvolvedor --> BancoDados
-    Desenvolvedor --> Linguagens
-    Desenvolvedor --> Trading
-    Desenvolvedor --> DevOps
-    Desenvolvedor --> Ferramentas
+graph TD
+    classDef avancado fill:#4CAF50,color:white,stroke:#388E3C,stroke-width:2px
+    classDef intermediario fill:#2196F3,color:white,stroke:#1976D2,stroke-width:2px
+    classDef basico fill:#FFC107,color:black,stroke:#FFA000,stroke-width:2px
+
+    A[Desenvolvedor Full Stack] --> B[Frameworks & Libraries]
+    A --> C[Linguagens]
+    A --> D[Banco de Dados]
+    A --> E[DevOps & Ferramentas]
+    A --> F[Trading & Automação]
+
+    B --> B1[React]:::avancado
+    B --> B2[React Native]:::intermediario
+    B --> B3[Material UI]:::avancado
+    B --> B4[Express.js]:::avancado
+    B --> B5[Socket.io]:::avancado
+    B --> B6[Electron]:::intermediario
+
+    C --> C1[JavaScript]:::avancado
+    C --> C2[HTML/CSS]:::avancado
+    C --> C3[PHP]:::intermediario
+    C --> C4[Python]:::intermediario
+    C --> C5[MQL4/5]:::avancado
+
+    D --> D1[MySQL]:::avancado
+    D --> D2[MongoDB]:::avancado
+    D --> D3[PostgreSQL]:::intermediario
+    D --> D4[SQLite]:::intermediario
+
+    E --> E1[Git]:::avancado
+    E --> E2[Linux]:::intermediario
+    E --> E3[Postman/Insomnia]:::avancado
+    E --> E4[Figma]:::intermediario
+    E --> E5[PM2]:::avancado
+
+    F --> F1[Trading Automatizado]:::avancado
+    F --> F2[Indicadores Técnicos]:::avancado
+    F --> F3[Análise de Mercado]:::avancado
+    F --> F4[Backtesting]:::avancado
+
+    style A fill:#673AB7,color:white,stroke:#512DA8,stroke-width:3px
 ```
+
+#### Legenda
+<div style="display: flex; gap: 20px; margin-top: 10px;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background-color: #4CAF50; border-radius: 3px;"></div>
+    <span>Avançado</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background-color: #2196F3; border-radius: 3px;"></div>
+    <span>Intermediário</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background-color: #FFC107; border-radius: 3px;"></div>
+    <span>Básico</span>
+  </div>
+</div>
 ## 🧭 Meus Valores Profissionais
 
 <div align="center">
