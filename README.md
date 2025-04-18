@@ -137,7 +137,7 @@ gantt
     title Experiência Profissional
     dateFormat  YYYY-MM-DD
     section Carreira
-    Responsável Técnico Municipal (Tecpop Minas)  :2025-04-01, 2025-12-31
+    Responsável Técnico Municipal (Tecpop Minas)  :2025-02-01, 2025-12-31
     Desenvolvedor Full-Stack Freelancer           :2019-11-01, 2025-12-31
     Estoquista (Irmãos Maçar e Cia Ltda)          :2019-08-01, 2019-10-31
     section Educação
@@ -158,11 +158,12 @@ gantt
 
 ## 💼 Experiência Profissional
 
-- **Responsável Técnico Municipal** | Portal Tecpop Minas | Abr/2025 - Presente
-  - Gestão da plataforma de cursos online no município
-  - Cadastro e administração de cursos de tecnologia e informática
-  - Emissão de certificados e relatórios de desempenho
-  - Implementação de programas educacionais para capacitação técnica
+- **Coordenador** | Portal Tecpop Minas | Fev/2025 - Presente
+  - Coordenação e ministração de aulas de informática 
+  - Gestão completa da plataforma de cursos online no município
+  - Cadastro e administração de cursos de tecnologia
+  - Emissão de certificados e monitoramento de desempenho dos alunos
+  - Implementação de estratégias educacionais para capacitação técnica
 
 - **Desenvolvedor Full-Stack Freelancer** | Autônomo | Nov/2019 - Presente
   - Desenvolvimento de websites e aplicativos web
