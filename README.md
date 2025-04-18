@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, eu sou Aleson 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Soluções+Digitais;Entusiasta+de+Trading+Automatizado&center=true&width=500&height=50" alt="Typing SVG" />
@@ -10,7 +9,7 @@
   <a href="https://github.com/AlesonPungirum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:alesonperirapungirum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/5533999911570"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://alesonpungirum.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
 ## 🚀 Sobre mim
@@ -48,7 +47,7 @@ mindmap
     Backend
       Node.js
       PHP
-      WebSocket
+      WebSocket (Socket.io/ws)
       Linux
     Banco de Dados
       MySQL
@@ -80,7 +79,6 @@ mindmap
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MQL](https://img.shields.io/badge/MQL4/5-2496ED?style=for-the-badge&logo=metatrader&logoColor=white)
@@ -96,7 +94,7 @@ mindmap
 ### Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -167,14 +165,17 @@ flowchart TD
     C --> D[Desenvolvimento Frontend]
     C --> E[Desenvolvimento Backend]
     C --> F[Banco de Dados]
-    D --> G[Testes e validação]
-    E --> G
-    F --> G
-    G --> H{Aprovação do cliente}
-    H -->|Sim| I[Implementação]
-    H -->|Não| J[Ajustes]
-    J --> G
-    I --> K[Manutenção e suporte]
+    C --> G[Documentação]
+    D --> H[Testes e validação]
+    E --> H
+    F --> H
+    G --> H
+    H --> I{Aprovação do cliente}
+    I -->|Sim| J[Implementação]
+    I -->|Não| K[Ajustes]
+    K --> H
+    J --> L[Manutenção e suporte]
+    L --> M[Documentação contínua]
 ```
 
 ## 📊 Diagrama de Sistemas de Trading
@@ -182,15 +183,18 @@ flowchart TD
 ```mermaid
 graph LR
     A[Análise de Mercado] --> B[Desenvolvimento MQL]
-    B --> C[Testes em Backtest]
-    C --> D{Resultados satisfatórios?}
-    D -->|Sim| E[Deploy em Servidor]
-    D -->|Não| F[Ajustes de Algoritmo]
-    F --> C
-    E --> G[Monitoramento]
-    G --> H{Otimização necessária?}
-    H -->|Sim| F
-    H -->|Não| G
+    B --> C[Documentação do sistema]
+    C --> D[Testes em Backtest]
+    D --> E{Resultados satisfatórios?}
+    E -->|Sim| F[Deploy em Servidor]
+    E -->|Não| G[Ajustes de Algoritmo]
+    G --> C
+    F --> H[Monitoramento]
+    H --> I{Otimização necessária?}
+    I -->|Sim| G
+    I -->|Não| H
+    I -->|Sim| J[Atualização da documentação]
+    J --> G
 ```
 
 ## 📫 Como me encontrar
