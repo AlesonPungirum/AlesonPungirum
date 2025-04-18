@@ -39,41 +39,41 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 mindmap
   root((Desenvolvedor<br/>Full Stack))
     Ferramentas
-      VS Code
       Git/GitHub
+      VS Code
       Postman/Insomnia
       Figma
     Frontend
       React
-      React Native
       HTML/CSS
       Material-UI
+      React Native
       Electron
+    Banco de Dados
+      MongoDB
+      MySQL
+      PostgreSQL
+      SQLite
     Backend
       Node.js
       Socket.io
       Express
       WebSockets
     Trading
+      Automação
       Análise Técnica
       Indicadores
       Backtesting
-      Automação
     DevOps
+      PM2
       Linux
       Nginx
-      PM2
       CI/CD
-    Banco de Dados
-      MySQL
-      MongoDB
-      PostgreSQL
-      SQLite
     Linguagens
+      MQL4/5
       JavaScript
       Python
       PHP
-      MQL4/5
 ```
 ## 🧭 Meus Valores Profissionais
 
