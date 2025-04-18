@@ -36,61 +36,45 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-graph TD
-    Dev((Desenvolvedor<br/>Full Stack))
-    
-    Dev---F[Frontend]
-    Dev---B[Backend]
-    Dev---D[Banco de Dados]
-    Dev---L[Linguagens]
-    Dev---T[Trading]
-    Dev---O[DevOps]
-    Dev---H[Ferramentas]
-    
-    F---F1[React]
-    F---F2[React Native]
-    F---F3[HTML/CSS]
-    F---F4[Material-UI]
-    F---F5[Electron]
-    
-    B---B1[Node.js]
-    B---B2[Socket.io]
-    B---B3[Express]
-    B---B4[WebSockets]
-    
-    D---D1[MySQL]
-    D---D2[MongoDB]
-    D---D3[PostgreSQL]
-    D---D4[SQLite]
-    
-    L---L1[JavaScript]
-    L---L2[Python]
-    L---L3[PHP]
-    L---L4[MQL4/5]
-    
-    T---T1[Análise Técnica]
-    T---T2[Indicadores]
-    T---T3[Backtesting]
-    T---T4[Automação]
-    
-    O---O1[Linux]
-    O---O2[Nginx]
-    O---O3[PM2]
-    O---O4[CI/CD]
-    
-    H---H1[VS Code]
-    H---H2[Git/GitHub]
-    H---H3[Postman/Insomnia]
-    H---H4[Figma]
-    
-    style Dev fill:#6200EA,stroke:#6200EA,color:white,stroke-width:4px
-    style F fill:#2196F3,stroke:#2196F3,color:white
-    style B fill:#4CAF50,stroke:#4CAF50,color:white
-    style D fill:#FFC107,stroke:#FFC107,color:black
-    style L fill:#F44336,stroke:#F44336,color:white
-    style T fill:#9C27B0,stroke:#9C27B0,color:white
-    style O fill:#00BCD4,stroke:#00BCD4,color:white
-    style H fill:#FF9800,stroke:#FF9800,color:white
+mindmap
+    id1[Desenvolvedor Full Stack]
+      id2[Frontend]
+        id3[React]
+        id4[React Native]
+        id5[HTML/CSS]
+        id6[Material-UI]
+        id7[Electron]
+      id8[Backend]
+        id9[Node.js]
+        id10[PHP]
+        id11[Socket.io]
+        id12[Express]
+        id13[WebSockets]
+      id14[Banco de Dados]
+        id15[MySQL]
+        id16[MongoDB]
+        id17[SQLite]
+        id18[PostgreSQL]
+      id19[Linguagens]
+        id20[JavaScript]
+        id21[Python]
+        id22[PHP]
+        id23[MQL4/5]
+      id24[Trading]
+        id25[Análise Técnica]
+        id26[Indicadores]
+        id27[Backtesting]
+        id28[Automação]
+      id29[DevOps]
+        id30[Linux]
+        id31[Nginx]
+        id32[PM2]
+        id33[CI/CD]
+      id34[Ferramentas]
+        id35[VS Code]
+        id36[Git/GitHub]
+        id37[Postman/Insomnia]
+        id38[Figma]
 ```
 ## 🧭 Meus Valores Profissionais
 
