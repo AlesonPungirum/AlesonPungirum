@@ -36,45 +36,33 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-mindmap
-  root["Desenvolvedor<br/>Full Stack"]
-    Frontend
-      React
-      React Native
-      HTML/CSS
-      Material-UI
-      Electron
-    Backend
-      Node.js
-      PHP
-      Socket.io
-      Express
-      WebSockets
-    Banco de Dados
-      MySQL
-      MongoDB
-      SQLite
-      PostgreSQL
-    Linguagens
-      JavaScript
-      Python
-      PHP
-      MQL4/5
-    Trading
-      Análise Técnica
-      Indicadores
-      Backtesting
-      Automação
-    DevOps
-      Linux
-      Nginx
-      PM2
-      CI/CD
-    Ferramentas
-      VS Code
-      Git/GitHub
-      Postman/Insomnia
-      Figma
+flowchart LR
+    DEV[Desenvolvedor Full Stack]
+    
+    DEV --> FRONT[Frontend]
+    DEV --> BACK[Backend]
+    DEV --> DB[Banco de Dados]
+    DEV --> LANG[Linguagens]
+    DEV --> TRADE[Trading]
+    DEV --> DEVOPS[DevOps]
+    DEV --> TOOLS[Ferramentas]
+    
+    FRONT --> React & Material-UI & HTML/CSS & React Native & Electron
+    BACK --> Node.js & PHP & Socket.io & Express & WebSockets
+    DB --> MySQL & MongoDB & SQLite & PostgreSQL
+    LANG --> JavaScript & Python & PHP & MQL4/5
+    TRADE --> Análise Técnica & Indicadores & Backtesting & Automação
+    DEVOPS --> Linux & Nginx & PM2 & CI/CD
+    TOOLS --> VS Code & Git/GitHub & Postman/Insomnia & Figma
+    
+    style DEV fill:#6200EA,color:white,stroke-width:2px
+    style FRONT fill:#2979FF,color:white
+    style BACK fill:#00C853,color:white
+    style DB fill:#FF6D00,color:white
+    style LANG fill:#D50000,color:white
+    style TRADE fill:#AA00FF,color:white
+    style DEVOPS fill:#00BFA5,color:white
+    style TOOLS fill:#FF3D00,color:white
 ```
 ## 🧭 Meus Valores Profissionais
 
