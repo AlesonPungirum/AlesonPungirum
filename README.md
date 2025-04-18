@@ -12,17 +12,17 @@
   <a href="https://alesonpungirum.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar soluções personalizadas e eficientes. Estudante de Engenharia de Software na Universidade Estácio, com experiência comprovada em desenvolvimento web, mobile e sistemas de trading automatizados.
-> 💡 Minha missão é **entregar valor através da tecnologia**, com soluções personalizadas, escaláveis e bem documentadas.
-- 🔭 Atualmente trabalho como Desenvolvedor Full-Stack Freelancer e Responsável Técnico Municipal
-- 🌱 Estou sempre buscando aprender e aplicar novas tecnologias
-- 👨‍💻 Experiência em gerenciar projetos do início ao fim, assegurando prazos e satisfação
-- 📍 Ladainha, MG - Brasil
-- 🚗 Habilitação categoria A (motos) e B (automóveis)
-- ✈️ Disponibilidade para viagens
-## 🤝 Habilidades Interpessoais
+> Minha missão é **entregar valor através da tecnologia**, com soluções personalizadas, escaláveis e bem documentadas.
+- Atualmente trabalho como Desenvolvedor Full-Stack Freelancer e Responsável Técnico Municipal
+- Estou sempre buscando aprender e aplicar novas tecnologias
+- Experiência em gerenciar projetos do início ao fim, assegurando prazos e satisfação
+- Ladainha, MG - Brasil
+- Habilitação categoria A (motos) e B (automóveis)
+- Disponibilidade para viagens
+##  Habilidades Interpessoais
 
 - Comunicação clara
 - Gestão de tempo
@@ -33,7 +33,7 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 - Proatividade
 - Trabalho em equipe
 - Foco em resultados
-## 🧠 Mapa de Habilidades Técnicas
+##  Mapa de Habilidades Técnicas
 
 ```mermaid
 mindmap
@@ -79,7 +79,7 @@ mindmap
       Scrum
       Kanban
 ```
-## 🧭 Meus Valores Profissionais
+##  Meus Valores Profissionais
 
 <div align="center">
   <img src="https://img.shields.io/badge/Qualidade-Sempre%20em%20primeiro%20lugar-blue?style=for-the-badge" alt="Qualidade" />
@@ -88,7 +88,7 @@ mindmap
   <img src="https://img.shields.io/badge/Inovação-Soluções%20criativas-purple?style=for-the-badge" alt="Inovação" />
 </div>
 
-## 🛠️ Habilidades Técnicas
+##  Habilidades Técnicas
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -133,32 +133,32 @@ mindmap
 
 ```mermaid
 gantt
-    title 📅 Linha do Tempo Profissional
+    title  Linha do Tempo Profissional
     dateFormat  YYYY-MM-DD
     axisFormat  %b/%Y
 
-    section 🧑‍💼 Carreira
-    💼 Responsável Técnico Municipal (Tecpop Minas)     :active, 2025-02-01, 2025-12-31
-    💻 Desenvolvedor Full-Stack Freelancer              :done, 2019-11-01, 2025-02-01
-    📦 Estoquista - Irmãos Maçar e Cia Ltda             :done, 2019-08-01, 2019-10-31
+    section  Carreira
+     Responsável Técnico Municipal (Tecpop Minas)     :active, 2025-02-01, 2025-12-31
+     Desenvolvedor Full-Stack Freelancer              :done, 2019-11-01, 2025-02-01
+     Estoquista - Irmãos Maçar e Cia Ltda             :done, 2019-08-01, 2019-10-31
 
-    section 🎓 Formação e Certificações
-    🎓 Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
-    📘 Agile Scrum Foundation - Certificação (em andamento) :active, 2025-04-01, 2025-06-30
+    section  Formação e Certificações
+     Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
+     Agile Scrum Foundation - Certificação (em andamento) :active, 2025-04-01, 2025-06-30
 ```
 
 
-## 📚 Formação Acadêmica
+##  Formação Acadêmica
 
 - **Bacharelado em Engenharia de Software** (em curso) | Universidade Estácio
 
-## 🌎 Idiomas
+##  Idiomas
 
 - **Português:** Nativo
 - **Inglês:** Intermediário (leitura técnica e escrita básica)
 - **Espanhol:** Básico (comunicação simples)
 
-## 💼 Experiência Profissional
+##  Experiência Profissional
 
 - **Coordenador** | Portal Tecpop Minas | Fev/2025 - Presente
   - Coordenação e ministração de aulas de informática 
@@ -178,7 +178,7 @@ gantt
   - Gestão de inventário e controle de estoque
   - Desenvolvimento de habilidades em organização e gestão de tempo
 
-## 📈 Fluxograma de Desenvolvimento de Projetos
+##  Fluxograma de Desenvolvimento de Projetos
 
 ```mermaid
 flowchart TD
@@ -200,7 +200,7 @@ flowchart TD
     L --> M[Documentação contínua]
 ```
 
-## 📊 Diagrama de Sistemas de Trading
+##  Diagrama de Sistemas de Trading
 
 ```mermaid
 graph LR
@@ -219,11 +219,11 @@ graph LR
     J --> G
 ```
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
-- 📧 Email: [alesonperirapungirum@gmail.com](mailto:alesonperirapungirum@gmail.com)
-- 📱 WhatsApp: [+55 33 9999-11570](https://wa.me/5533999911570)
-- 📍 Ladainha, MG - Brasil
+-  Email: [alesonperirapungirum@gmail.com](mailto:alesonperirapungirum@gmail.com)
+-  WhatsApp: [+55 33 9999-11570](https://wa.me/5533999911570)
+-  Ladainha, MG - Brasil
 
 ---
 
