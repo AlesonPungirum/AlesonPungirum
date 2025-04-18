@@ -38,33 +38,71 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ```mermaid
 mindmap
   root((Desenvolvedor Full Stack))
-    Frontend
-      React
-      React Native
-      HTML/CSS
-      Material-UI
-      Electron
-    Backend
-      Node.js
-      PHP
-      WebSocket (Socket.io/ws)
-      Linux
+    Desenvolvimento Frontend
+      JavaScript (Avançado)
+        React (Avançado)
+          Hooks
+          Context API
+          Redux
+        React Native (Intermediário)
+          Expo
+          Navigation
+      HTML5/CSS3 (Avançado)
+        Responsive Design
+        Flexbox/Grid
+        Animations
+      UI Frameworks
+        Material-UI (Avançado)
+        Tailwind CSS (Intermediário)
+      Desktop Apps
+        Electron (Intermediário)
+    Desenvolvimento Backend
+      Node.js (Avançado)
+        Express.js
+        NestJS
+        REST APIs
+        Middlewares
+      PHP (Intermediário)
+        Laravel
+        WordPress
+      Tempo Real
+        Socket.io (Avançado)
+        WebSockets
+      DevOps
+        Linux (Intermediário)
+        Nginx/Apache
+        CI/CD
+        PM2 (Avançado)
     Banco de Dados
-      MySQL
-      MongoDB
-      SQLite
-      PostgreSQL
-    Linguagens
-      JavaScript
-      Python
-      PHP
-      MQL4/5
-    Ferramentas
-      VS Code
-      Git
-      Postman/Insomnia
-      Figma
-      PM2
+      Relacional
+        MySQL (Avançado)
+        PostgreSQL (Intermediário)
+        SQLite (Intermediário)
+      NoSQL
+        MongoDB (Avançado)
+        Mongoose ODM
+    Linguagens de Programação
+      JavaScript/TypeScript (Avançado)
+      Python (Intermediário)
+        Data Analysis
+        Automation
+      PHP (Intermediário)
+      MQL4/5 (Avançado)
+        Indicadores Customizados
+        Trading Automatizado
+        Análise Técnica
+    Ferramentas & Metodologias
+      Controle de Versão
+        Git (Avançado)
+        GitHub/GitLab
+      API Testing
+        Postman (Avançado)
+        Insomnia (Avançado)
+      Design & Prototyping
+        Figma (Intermediário)
+      Metodologias Ágeis
+        Scrum
+        Kanban
 ```
 ## 🧭 Meus Valores Profissionais
 
