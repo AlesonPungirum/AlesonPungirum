@@ -134,18 +134,18 @@ mindmap
 
 ```mermaid
 gantt
-    title Experiência Profissional
+    title 📅 Linha do Tempo Profissional
     dateFormat  YYYY-MM-DD
+    axisFormat  %b/%Y
 
-    section Carreira
-    Responsável Técnico Municipal (Tecpop Minas)  :active, 2025-02-01, 2025-12-31
-    Desenvolvedor Full-Stack Freelancer           :done, 2019-11-01, 2025-12-31
-    Estoquista (Irmãos Maçar e Cia Ltda)          :done, 2019-08-01, 2019-10-31
+    section Experiência Profissional
+    💼 Responsável Técnico Municipal (Tecpop Minas)     :active, 2025-02-01, 2025-12-31
+    💻 Desenvolvedor Full-Stack Freelancer              :done, 2019-11-01, 2025-12-31
+    📦 Estoquista (Irmãos Maçar e Cia Ltda)             :done, 2019-08-01, 2019-10-31
 
-    section Educação
-    Engenharia de Software (Estácio)              :active, 2019-01-01, 2025-12-31
+    section Formação Acadêmica
+    🎓 Engenharia de Software (Estácio)                 :active, 2019-01-01, 2025-12-31
 
-```
 
 
 
