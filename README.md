@@ -36,62 +36,44 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-graph TD
-    Dev((Desenvolvedor<br>Full Stack)) 
-    
-    Dev --> Frontend
-    Dev --> Backend
-    Dev --> BancoDados[Banco de Dados]
-    Dev --> Linguagens
-    Dev --> Trading
-    Dev --> DevOps
-    Dev --> Ferramentas
-    
-    Frontend --> React
-    Frontend --> ReactNative[React Native]
-    Frontend --> HTML[HTML/CSS]
-    Frontend --> MaterialUI[Material-UI]
-    Frontend --> Electron
-    
-    Backend --> NodeJS[Node.js]
-    Backend --> PHP
-    Backend --> SocketIO[Socket.io]
-    Backend --> Express
-    Backend --> WebSockets
-    
-    BancoDados --> MySQL
-    BancoDados --> MongoDB
-    BancoDados --> SQLite
-    BancoDados --> PostgreSQL
-    
-    Linguagens --> JavaScript
-    Linguagens --> Python
-    Linguagens --> PHP2[PHP]
-    Linguagens --> MQL[MQL4/5]
-    
-    Trading --> Analise[Análise Técnica]
-    Trading --> Indicadores
-    Trading --> Backtesting
-    Trading --> Automacao[Automação]
-    
-    DevOps --> Linux
-    DevOps --> Nginx
-    DevOps --> PM2
-    DevOps --> CICD[CI/CD]
-    
-    Ferramentas --> VSCode[VS Code]
-    Ferramentas --> Git[Git/GitHub]
-    Ferramentas --> Postman[Postman/Insomnia]
-    Ferramentas --> Figma
-    
-    style Dev fill:#6200EA,stroke:#6200EA,color:white,stroke-width:3px,radius:50px
-    style Frontend fill:#2196F3,stroke:#2196F3,color:white
-    style Backend fill:#4CAF50,stroke:#4CAF50,color:white
-    style BancoDados fill:#FFC107,stroke:#FFC107,color:black
-    style Linguagens fill:#F44336,stroke:#F44336,color:white
-    style Trading fill:#9C27B0,stroke:#9C27B0,color:white
-    style DevOps fill:#00BCD4,stroke:#00BCD4,color:white
-    style Ferramentas fill:#FF9800,stroke:#FF9800,color:white
+mindmap
+  root((Desenvolvedor Full Stack))
+    Frontend
+      React
+      React Native
+      HTML/CSS
+      Material-UI
+      Electron
+    Backend
+      Node.js
+      Socket.io
+      Express
+      WebSockets
+    Banco de Dados
+      MySQL
+      MongoDB
+      PostgreSQL
+      SQLite
+    Linguagens
+      JavaScript
+      Python
+      PHP
+      MQL4/5
+    Trading
+      Análise Técnica
+      Indicadores
+      Backtesting
+      Automação
+    DevOps
+      Linux
+      Nginx
+      PM2
+      CI/CD
+    Ferramentas
+      VS Code
+      Git/GitHub
+      Postman/Insomnia
+      Figma
 ```
 ## 🧭 Meus Valores Profissionais
 
