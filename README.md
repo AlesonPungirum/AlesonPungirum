@@ -136,12 +136,27 @@ mindmap
 gantt
     title Experiência Profissional
     dateFormat  YYYY-MM-DD
+
     section Carreira
-    Responsável Técnico Municipal (Tecpop Minas)  :2025-02-01, 2025-12-31
-    Desenvolvedor Full-Stack Freelancer           :2019-11-01, 2025-12-31
-    Estoquista (Irmãos Maçar e Cia Ltda)          :2019-08-01, 2019-10-31
+    Responsável Técnico Municipal (Tecpop Minas)  :RTM, 2025-02-01, 2025-12-31
+    Desenvolvedor Full-Stack Freelancer           :FREELA, 2019-11-01, 2025-12-31
+    Estoquista (Irmãos Maçar e Cia Ltda)          :ESTOQUE, 2019-08-01, 2019-10-31
+
     section Educação
-    Engenharia de Software (Estácio)              :2019-01-01, 2025-12-31
+    Engenharia de Software (Estácio)              :FACULDADE, 2019-01-01, 2025-12-31
+
+    %% Definindo estilos personalizados
+    classDef RTM fill:#4CAF50,stroke:#333,stroke-width:1px,color:#fff
+    classDef FREELA fill:#2196F3,stroke:#333,stroke-width:1px,color:#fff
+    classDef ESTOQUE fill:#9E9E9E,stroke:#333,stroke-width:1px,color:#fff
+    classDef FACULDADE fill:#FF9800,stroke:#333,stroke-width:1px,color:#fff
+
+    %% Aplicando estilos
+    class RTM RTM
+    class FREELA FREELA
+    class ESTOQUE ESTOQUE
+    class FACULDADE FACULDADE
+
 ```
 
 
