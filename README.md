@@ -39,46 +39,42 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 mindmap
   root((Desenvolvedor Full Stack))
     Frontend
-      React.js
-      HTML5/CSS3
-      Material-UI
-      JavaScript Avançado
-      Electron
-    Mobile
+      React
       React Native
-      Expo
-      iOS/Android
+      HTML/CSS
+      Material-UI
+      Electron
     Backend
       Node.js
-      Express.js
-      APIs RESTful
-      Socket.io
       PHP
+      Socket.io
+      Express
+      WebSockets
     Banco de Dados
       MySQL
       MongoDB
-      PostgreSQL
       SQLite
+      PostgreSQL
+    Linguagens
+      JavaScript
+      Python
+      PHP
+      MQL4/5
     Trading
-      MQL4/MQL5
-      Indicadores Técnicos 
-      Backtest
-      Análise de Mercado
+      Análise Técnica
+      Indicadores
+      Backtesting
+      Automação
     DevOps
       Linux
-      Git/GitHub
-      CI/CD
-      PM2
       Nginx
-    Design
-      Figma
-      UI/UX Básico
-      Responsive Design
+      PM2
+      CI/CD
     Ferramentas
       VS Code
+      Git/GitHub
       Postman/Insomnia
-      Discord.js
-      Slack API
+      Figma
 ```
 ## 🧭 Meus Valores Profissionais
 
