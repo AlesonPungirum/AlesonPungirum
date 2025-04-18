@@ -74,6 +74,10 @@ mindmap
       JavaScript
       Python
       PHP
+    Metodologias
+      Agile
+      Scrum
+      Kanban
 ```
 ## 🧭 Meus Valores Profissionais
 
