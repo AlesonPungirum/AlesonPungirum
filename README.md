@@ -129,7 +129,6 @@ mindmap
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-
 ## 📊 Timeline de Experiência Profissional
 
 ```mermaid
@@ -137,16 +136,16 @@ gantt
     title 📅 Linha do Tempo Profissional
     dateFormat  YYYY-MM-DD
     axisFormat  %b/%Y
+
+    section 🧑‍💼 Carreira
     💼 Responsável Técnico Municipal (Tecpop Minas)     :active, 2025-02-01, 2025-12-31
-    🎓 Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
     💻 Desenvolvedor Full-Stack Freelancer              :done, 2019-11-01, 2025-02-01
     📦 Estoquista - Irmãos Maçar e Cia Ltda             :done, 2019-08-01, 2019-10-31
 
-
-
-
+    section 🎓 Formação e Certificações
+    🎓 Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
+    📘 Agile Scrum Foundation - Certificação (em andamento) :active, 2025-04-01, 2025-06-30
 ```
-
 
 
 ## 📚 Formação Acadêmica
