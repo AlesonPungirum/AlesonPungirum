@@ -36,45 +36,60 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-mindmap
-  root((Desenvolvedor Full Stack))
-    Linguagens
-      JavaScript
-      Python
-      PHP
-      MQL4/5
-    Ferramentas
-      VS Code
-      Git/GitHub
-      Postman/Insomnia
-      Figma
-    Frontend
-      React
-      React Native
-      HTML/CSS
-      Material-UI
-      Electron
-    Trading
-      Análise Técnica
-      Indicadores
-      Backtesting
-      Automação
-    Backend
-      Node.js
-      PHP
-      Socket.io
-      Express
-      WebSockets
-    DevOps
-      Linux
-      Nginx
-      PM2
-      CI/CD
-    Banco de Dados
-      MySQL
-      MongoDB
-      SQLite
-      PostgreSQL
+graph TB
+    Dev[Desenvolvedor Full Stack] --> Frontend
+    Dev --> Backend
+    Dev --> BancoDados[Banco de Dados]
+    Dev --> Linguagens
+    Dev --> Trading
+    Dev --> DevOps
+    Dev --> Ferramentas
+    
+    Frontend --> React
+    Frontend --> ReactNative[React Native]
+    Frontend --> HTML[HTML/CSS]
+    Frontend --> MaterialUI[Material-UI]
+    Frontend --> Electron
+    
+    Backend --> NodeJS[Node.js]
+    Backend --> PHP
+    Backend --> SocketIO[Socket.io]
+    Backend --> Express
+    Backend --> WebSockets
+    
+    BancoDados --> MySQL
+    BancoDados --> MongoDB
+    BancoDados --> SQLite
+    BancoDados --> PostgreSQL
+    
+    Linguagens --> JavaScript
+    Linguagens --> Python
+    Linguagens --> PHP2[PHP]
+    Linguagens --> MQL[MQL4/5]
+    
+    Trading --> Analise[Análise Técnica]
+    Trading --> Indicadores
+    Trading --> Backtesting
+    Trading --> Automacao[Automação]
+    
+    DevOps --> Linux
+    DevOps --> Nginx
+    DevOps --> PM2
+    DevOps --> CICD[CI/CD]
+    
+    Ferramentas --> VSCode[VS Code]
+    Ferramentas --> Git[Git/GitHub]
+    Ferramentas --> Postman[Postman/Insomnia]
+    Ferramentas --> Figma
+    
+    style Dev fill:#4527A0,stroke:#4527A0,color:#FFFFFF,stroke-width:2px
+    style Frontend fill:#1E88E5,stroke:#1E88E5,color:#FFFFFF
+    style Backend fill:#43A047,stroke:#43A047,color:#FFFFFF
+    style BancoDados fill:#FB8C00,stroke:#FB8C00,color:#FFFFFF
+    style Linguagens fill:#E53935,stroke:#E53935,color:#FFFFFF
+    style Trading fill:#8E24AA,stroke:#8E24AA,color:#FFFFFF
+    style DevOps fill:#00ACC1,stroke:#00ACC1,color:#FFFFFF
+    style Ferramentas fill:#F4511E,stroke:#F4511E,color:#FFFFFF
 ```
 ## 🧭 Meus Valores Profissionais
 
