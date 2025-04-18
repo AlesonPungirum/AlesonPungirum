@@ -144,7 +144,7 @@ gantt
     📦 Estoquista - Irmãos Maçar e Cia Ltda             :done, 2019-08-01, 2019-10-31
 
     section 🎓 Formação Acadêmica
-    🎓 Engenharia de Software - Universidade Estácio     :active, 2019-01-01, 2025-12-31
+    🎓 Engenharia de Software - Universidade Estácio     :active, 2025-01-01, 2025-12-31
 
 
 ```
