@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Aleson</h1>
+<h1 align="center">Aleson Pereira Pungirum</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Soluções+Digitais;Entusiasta+de+Trading+Automatizado&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
