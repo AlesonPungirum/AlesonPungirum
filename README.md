@@ -36,44 +36,61 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-mindmap
-  root((Desenvolvedor<br/>Full Stack))
-    Ferramentas
-      Git/GitHub
-      VS Code
-      Postman/Insomnia
-      Figma
-    Frontend
-      React
-      HTML/CSS
-      Material-UI
-      React Native
-      Electron
-    Banco de Dados
-      MongoDB
-      MySQL
-      PostgreSQL
-      SQLite
-    Backend
-      Node.js
-      Socket.io
-      Express
-      WebSockets
-    Trading
-      Automação
-      Análise Técnica
-      Indicadores
-      Backtesting
-    DevOps
-      PM2
-      Linux
-      Nginx
-      CI/CD
-    Linguagens
-      MQL4/5
-      JavaScript
-      Python
-      PHP
+graph TD
+    Dev((Desenvolvedor<br/>Full Stack))
+    
+    Dev---F[Frontend]
+    Dev---B[Backend]
+    Dev---D[Banco de Dados]
+    Dev---L[Linguagens]
+    Dev---T[Trading]
+    Dev---O[DevOps]
+    Dev---H[Ferramentas]
+    
+    F---F1[React]
+    F---F2[React Native]
+    F---F3[HTML/CSS]
+    F---F4[Material-UI]
+    F---F5[Electron]
+    
+    B---B1[Node.js]
+    B---B2[Socket.io]
+    B---B3[Express]
+    B---B4[WebSockets]
+    
+    D---D1[MySQL]
+    D---D2[MongoDB]
+    D---D3[PostgreSQL]
+    D---D4[SQLite]
+    
+    L---L1[JavaScript]
+    L---L2[Python]
+    L---L3[PHP]
+    L---L4[MQL4/5]
+    
+    T---T1[Análise Técnica]
+    T---T2[Indicadores]
+    T---T3[Backtesting]
+    T---T4[Automação]
+    
+    O---O1[Linux]
+    O---O2[Nginx]
+    O---O3[PM2]
+    O---O4[CI/CD]
+    
+    H---H1[VS Code]
+    H---H2[Git/GitHub]
+    H---H3[Postman/Insomnia]
+    H---H4[Figma]
+    
+    style Dev fill:#6200EA,stroke:#6200EA,color:white,stroke-width:4px
+    style F fill:#2196F3,stroke:#2196F3,color:white
+    style B fill:#4CAF50,stroke:#4CAF50,color:white
+    style D fill:#FFC107,stroke:#FFC107,color:black
+    style L fill:#F44336,stroke:#F44336,color:white
+    style T fill:#9C27B0,stroke:#9C27B0,color:white
+    style O fill:#00BCD4,stroke:#00BCD4,color:white
+    style H fill:#FF9800,stroke:#FF9800,color:white
 ```
 ## 🧭 Meus Valores Profissionais
 
