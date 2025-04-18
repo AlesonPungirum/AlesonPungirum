@@ -123,6 +123,11 @@ mindmap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
+### Metodologias de Gestão
+![Agile](https://img.shields.io/badge/Agile-0A0A0A?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 
 
 ## 📊 Timeline de Experiência Profissional
@@ -164,6 +169,7 @@ gantt
   - Implementação de soluções de banco de dados com MySQL
   - Desenvolvimento de sistemas de trading automatizados (MQL4 e MQL5)
   - Administração de servidores Linux e validação de APIs
+  - Implementação de metodologias ágeis (Scrum/Kanban) para gerenciamento eficiente de projetos
 
 - **Estoquista** | Irmãos Maçar e Cia Ltda | Ago/2019 - Out/2019
   - Gestão de inventário e controle de estoque
