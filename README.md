@@ -37,7 +37,7 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 
 ```mermaid
 mindmap
-    id1[Desenvolvedor Full Stack]
+    id1((Desenvolvedor Full Stack))
       id2[Frontend]
         id3[React]
         id4[React Native]
