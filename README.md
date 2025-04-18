@@ -36,33 +36,69 @@ Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar 
 ## 🧠 Mapa de Habilidades Técnicas
 
 ```mermaid
-flowchart LR
-    DEV[Desenvolvedor Full Stack]
+classDiagram
+    class Desenvolvedor {
+        <<Full Stack>>
+    }
     
-    DEV --> FRONT[Frontend]
-    DEV --> BACK[Backend]
-    DEV --> DB[Banco de Dados]
-    DEV --> LANG[Linguagens]
-    DEV --> TRADE[Trading]
-    DEV --> DEVOPS[DevOps]
-    DEV --> TOOLS[Ferramentas]
+    class Frontend {
+        React
+        React Native
+        HTML/CSS
+        Material-UI
+        Electron
+    }
     
-    FRONT --> React & Material-UI & HTML/CSS & React Native & Electron
-    BACK --> Node.js & PHP & Socket.io & Express & WebSockets
-    DB --> MySQL & MongoDB & SQLite & PostgreSQL
-    LANG --> JavaScript & Python & PHP & MQL4/5
-    TRADE --> Análise Técnica & Indicadores & Backtesting & Automação
-    DEVOPS --> Linux & Nginx & PM2 & CI/CD
-    TOOLS --> VS Code & Git/GitHub & Postman/Insomnia & Figma
+    class Backend {
+        Node.js
+        PHP
+        Socket.io
+        Express
+        WebSockets
+    }
     
-    style DEV fill:#6200EA,color:white,stroke-width:2px
-    style FRONT fill:#2979FF,color:white
-    style BACK fill:#00C853,color:white
-    style DB fill:#FF6D00,color:white
-    style LANG fill:#D50000,color:white
-    style TRADE fill:#AA00FF,color:white
-    style DEVOPS fill:#00BFA5,color:white
-    style TOOLS fill:#FF3D00,color:white
+    class BancoDados {
+        MySQL
+        MongoDB
+        SQLite
+        PostgreSQL
+    }
+    
+    class Linguagens {
+        JavaScript
+        Python
+        PHP
+        MQL4/5
+    }
+    
+    class Trading {
+        Análise Técnica
+        Indicadores
+        Backtesting
+        Automação
+    }
+    
+    class DevOps {
+        Linux
+        Nginx
+        PM2
+        CI/CD
+    }
+    
+    class Ferramentas {
+        VS Code
+        Git/GitHub
+        Postman/Insomnia
+        Figma
+    }
+    
+    Desenvolvedor --> Frontend
+    Desenvolvedor --> Backend
+    Desenvolvedor --> BancoDados
+    Desenvolvedor --> Linguagens
+    Desenvolvedor --> Trading
+    Desenvolvedor --> DevOps
+    Desenvolvedor --> Ferramentas
 ```
 ## 🧭 Meus Valores Profissionais
 
