@@ -14,7 +14,7 @@
 
 ##  Aqui eu falo um pouco sobre mim
 
-Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar soluções personalizadas e eficientes. Estudante de Engenharia de Software na Universidade Estácio, com experiência comprovada em desenvolvimento web, mobile e sistemas de trading automatizados.
+Eu sou desenvolvedor Full Stack e venho trabalhando com projetos web, mobile e também com sistemas de trading automatizados. Atualmente, estou cursando Engenharia de Software na Estácio. Gosto de usar tecnologia pra resolver problemas de forma prática — desenvolvendo sistemas que realmente ajudam as pessoas ou melhoram processos. Pra mim, o mais importante é entregar algo que funcione bem e faça sentido pra quem vai usar.
 > Minha missão é **entregar valor através da tecnologia**, com soluções personalizadas, escaláveis e bem documentadas.
 - Atualmente trabalho como Desenvolvedor Full-Stack Freelancer e Responsável Técnico Municipal
 - Estou sempre buscando aprender e aplicar novas tecnologias
