@@ -12,7 +12,7 @@
   <a href="https://alesonpungirum.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
-##  Sobre mim
+##  Aqui eu falo um pouco sobre mim
 
 Desenvolvedor Full Stack e Especialista em Soluções Digitais, focado em criar soluções personalizadas e eficientes. Estudante de Engenharia de Software na Universidade Estácio, com experiência comprovada em desenvolvimento web, mobile e sistemas de trading automatizados.
 > Minha missão é **entregar valor através da tecnologia**, com soluções personalizadas, escaláveis e bem documentadas.
